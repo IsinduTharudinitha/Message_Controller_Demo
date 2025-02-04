@@ -1,0 +1,4 @@
+RabbitmqDemo\RabbitmqSpringboot\Publisher\RabbitmqProducer.class
+RabbitmqDemo\RabbitmqSpringboot\Config\RabbitmqConfig.class
+RabbitmqDemo\RabbitmqSpringboot\RabbitmqSpringbootApplication.class
+RabbitmqDemo\RabbitmqSpringboot\Consumer\MessageController.class
